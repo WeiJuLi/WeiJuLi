@@ -1,16 +1,30 @@
-### Hi there 👋
+### MEOW MEOW 👋 Seeing this cat means you'll have good luck today
 
-<!--
-**WeiJuLi/WeiJuLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![截圖 2024-02-22 下午12 10 46](https://github.com/WeiJuLi/WeiJuLi/assets/55224663/411d206f-0823-4592-a7f3-723118727625)
 
-Here are some ideas to get you started:
+I'm on an exciting journey from banking data analyst to software engineer, exploring the vast universe of coding and data 🚀. My adventures have taken me through the realms of natural language recognition, a touch of modeling, and the creation of time-saving, efficiency-boosting mini-programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔗 [LinkedIn](#)
+- 🏦 Transitioning from a **Banking Data Analyst** to a **Software Engineer**
+- 📊 Passionate about **Data Analysis** and **Natural Language Recognition**
+- 🧠 Dabbled in **Modeling** with a curious mind
+- 🛠️ Skills in `Python`, `C`, `SQL`, `HTML`, `CSS`, `JavaScript`, `R`
+- ❤️ Love developing tools that **save time** and **increase productivity**
+- 🤖 Created **automated reporting** and **emailing systems** to keep data flowing, even while on vacation
+- 🌱 Currently learning more about **software development**
+
+## My Projects
+
+- 📈 **Automated Reporting System**: Streamlined the report generation process, making data analysis a breeze.
+- 💌 **Automated Email Program**: Ensured continuous data delivery to colleagues, even when I'm off the clock.
+
+## Let's Connect!
+
+I'm always on the lookout for new technologies and strategies to make our digital life more efficient and enjoyable. If you're into coding, data, or just love to geek out about technology, let's get in touch!
+_Remember, the best way to predict the future is to invent it. Let's create something amazing together!_
+
+
+
+
