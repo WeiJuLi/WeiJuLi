@@ -1,6 +1,6 @@
 ### Hello ✨ I’m Livia
 <p> 🎓 CS Master’s @ Virginia Tech (Graduating Fall 2026)<br>
-💼 Software Engineer & Data Analyst for 3 years | Assistant Manager | Banking Industry (before my CS studies)<br>
+💼 Software Engineer & Data Analyst for 3 years | Banking Industry (before my CS studies)<br>
 <br>
 🚀 Experience in Software engineering & Data analytics, focusing on developing microservices and APIs<br> for real-time credit recommendation systems using customer data.<br>
 ✨ Specialize in full-stack development, Machine Learning, microservice development, API integration, and data analysis</p>
